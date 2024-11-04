@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><productos>
+    <producto>
+        <nombre>Producto 1</nombre>
+        <precio>19.99</precio>
+        <cantidad>50</cantidad>
+    </producto>
+    <producto>
+        <nombre>Producto 2</nombre>
+        <precio>29.99</precio>
+        <cantidad>30</cantidad>
+    </producto>
+    <producto>
+        <nombre>Producto 3</nombre>
+        <precio>39.99</precio>
+        <cantidad>20</cantidad>
+    </producto>
+    <producto>
+        <nombre>Producto 4</nombre>
+        <precio>49.99</precio>
+        <cantidad>10</cantidad>
+    </producto>
+<producto><nombre>pepe</nombre><precio>23.34</precio><cantidad>45</cantidad></producto><producto><nombre> pepe2</nombre><precio>23.0</precio><cantidad>34</cantidad></producto><producto><nombre>algo </nombre><precio>12.34</precio><cantidad>34</cantidad></producto><producto><nombre>prueba15</nombre><precio>12.0</precio><cantidad>15</cantidad></producto><producto><nombre>prubeba16</nombre><precio>15.6</precio><cantidad>16</cantidad></producto><producto><nombre>tonto</nombre><precio>12.15</precio><cantidad>12</cantidad></producto></productos>
